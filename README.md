@@ -1,4 +1,4 @@
-Note from Sub
+Note from Swirtzly
 ===========================
 I have forked this mod recently (06/08/2018) as it was the first mod I played when I started playing Minecraft.
 I personally never want to see the repo never drop off the face of the earth one day and have it unarchived.
